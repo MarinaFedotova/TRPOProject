@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.01.17 15:37:00.491,=C:\Users\Marina\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021.01.17 15:37:00.609,=C:\Users\Marina\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021.01.17 15:39:39.282,C:\Users\Marina\Documents\Embarcadero\Studio\Projects\LrS\Unit1.h=C:\Users\Marina\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021.01.17 15:39:39.282,C:\Users\Marina\Documents\Embarcadero\Studio\Projects\LrS\Unit1.cpp=C:\Users\Marina\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021.01.17 15:39:39.282,C:\Users\Marina\Documents\Embarcadero\Studio\Projects\LrS\Unit1.dfm=C:\Users\Marina\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021.01.17 15:39:47.612,C:\Users\Marina\Documents\Embarcadero\Studio\Projects\LrS\Project1PCH1.h=C:\Users\Marina\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021.01.17 15:39:54.917,C:\Users\Marina\Documents\Embarcadero\Studio\Projects\LrS\TreePCH1.h=C:\Users\Marina\Documents\Embarcadero\Studio\Projects\LrS\Project1PCH1.h</Transaction>
+    <Transaction>2021.01.17 15:39:54.952,C:\Users\Marina\Documents\Embarcadero\Studio\Projects\LrS\Tree.cbproj=C:\Users\Marina\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
